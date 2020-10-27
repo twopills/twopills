@@ -14,7 +14,6 @@
  
  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=5FC397&color=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=5FC397&color=FFFFFF)
- ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab&logoColor=5FC397&color=FFFFFF)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=flat&logo=bitbucket&logoColor=5FC397&color=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=5FC397&color=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=5FC397&color=FFFFFF)
