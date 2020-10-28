@@ -7,9 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twopill&hide=css,scss&icon_color=2bbc8a&theme=vue" />
 </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=twopill&count_private=true&show_icons=truee&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-
 **Languages**
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&logoColor=2bbc9a&color=24292E)
