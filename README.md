@@ -1,6 +1,14 @@
 ## **Hi! I'm Elia** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<a href="https://github.com/twopill/twopill">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=twopill&count_private=true&show_icons=true&theme=vue" />
+</a>
+
+<a href="https://github.com/twopill/twopill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twopill&hide=css,scss&icon_color=2bbc8a&theme=vue" />
+</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=twopill&count_private=true&show_icons=truee&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **Languages**
 
@@ -21,7 +29,7 @@
 
 
 
-
 **Web projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=for-the-badge&logoColor=2bbc9a&color=24292E)](https://github.com/twopill/elia)
+
