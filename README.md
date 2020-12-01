@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twopill&hide=css,scss&icon_color=2bbc8a&theme=vue" />
 </a>
 
-**Languages**
+**Languages || HyperText Markup Language** <!-- lol -->
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&logoColor=2bbc9a&color=24292E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=2bbc9a&color=24292E)
