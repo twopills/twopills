@@ -30,3 +30,8 @@
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=for-the-badge&logoColor=2bbc9a&color=24292E)](https://github.com/twopill/elia)
 
+**Link**
+
+<a href="https://dev.to/twopill">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Elia's DEV Profile" height="30" width="30">
+</a>
