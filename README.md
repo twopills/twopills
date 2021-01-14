@@ -1,10 +1,10 @@
 ## **Hi! I'm Elia** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://github.com/twopill/twopill">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=twopill&count_private=true&show_icons=true&theme=crypto&bg_color=252525&text_color=ffffff&icon_color=dd4c35&title_color=dd4c35&hide_border=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=twopill&count_private=true&show_icons=true&theme=crypto&bg_color=fff&text_color=252525&icon_color=dd4c35&title_color=dd4c35&hide_border=true" />
 </a>
 
 <a href="https://github.com/twopill/twopill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twopill&hide=css,scss, java&icon_color=2bbc8a&theme=vue&langs_count=8&theme=crypto&bg_color=252525&text_color=ffffff&icon_color=dd4c35&title_color=dd4c35&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twopill&hide=css,scss, java&icon_color=2bbc8a&theme=vue&langs_count=8&theme=crypto&bg_color=fff&text_color=252525&icon_color=dd4c35&title_color=dd4c35&hide_border=true" />
 </a>
 
 **Languages || HyperText Markup Language** <!-- lol -->
