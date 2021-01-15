@@ -9,12 +9,12 @@
 
 **Languages || HyperText Markup Language** <!-- lol -->
 
-![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&logoColor=2bbc9a&color=24292E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=2bbc9a&color=24292E)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=2bbc9a&color=24292E)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=2bbc9a&color=24292E)
-![Go](https://img.shields.io/badge/-Go-informational?style=for-the-badge&logo=go&logoColor=2bbc9a&color=24292E)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=2bbc9a&color=24292E)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular&logoColor=dd4c35&color=252525&labelColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=dd4c35&color=252525&labelColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=dd4c35&color=252525&labelColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=dd4c35&color=252525&labelColor=fff)
+![Go](https://img.shields.io/badge/-Go-informational?style=for-the-badge&logo=go&logoColor=dd4c35&color=252525&labelColor=fff)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=dd4c35&color=252525&labelColor=fff)
 
  🔧 **Technologies**
  
