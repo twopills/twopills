@@ -14,7 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=dd4c35&color=252525&labelColor=252525)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=dd4c35&color=252525&labelColor=252525)
 ![Go](https://img.shields.io/badge/-Go-informational?style=for-the-badge&logo=go&logoColor=dd4c35&color=252525&labelColor=252525)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=dd4c35&color=252525&labelColor=252525)
 
  🔧 **Technologies**
  
