@@ -22,6 +22,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=for-the-badge&logo=bitbucket&logoColor=2bbc9a&color=24292E)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=2bbc9a&color=24292E)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=2bbc9a&color=24292E)
+![RXJS](https://img.shields.io/badge/-Rxjs-000000?style=for-the-badge&link=https://dwglogo.com/wp-content/uploads/2017/05/1400x964_RxJS_logo.png&logoColor=2bbc9a&color=24292E)
 
 
 
